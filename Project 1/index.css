@@ -1,0 +1,7 @@
+.register-container {
+    background-color: gray;
+    width: 300px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+}
